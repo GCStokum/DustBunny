@@ -1,2 +1,2 @@
 # DustBunny
-A spec , a more, a game
+A speck , a mote, a game.
